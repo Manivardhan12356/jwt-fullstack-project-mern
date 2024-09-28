@@ -5,6 +5,7 @@ client/node_modules
 server/.pnp
 client/.env
 server/.env
+server/config.js
 .pnp.js
 
 # testing
